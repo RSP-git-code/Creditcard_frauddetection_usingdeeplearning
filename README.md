@@ -108,12 +108,6 @@ The notebook includes:
   * Confusion Matrix
   * Precision, Recall, F1-Score
 
----
-Perfect — here’s a **clean, ready-to-paste Markdown section** for your **README.md**, rewritten professionally and **specifically mentioning LSTM & RNN**, with placeholders where you’ll add screenshots and exact metrics.
-
-You can paste this directly under **Results & Evaluation** and later update the values once you share the screenshots.
-
----
 
 ## 📊 Results & Evaluation
 
@@ -126,12 +120,16 @@ Both **Machine Learning (ML)** and **Deep Learning (DL)** models were implemente
 **Machine Learning Models**
 
 * Logistic Regression
-* Random Forest Classifier
+* Random Forest Classifier,
+* Linear SVC
+* Gradient Boosting
 
 **Deep Learning Models**
 
 * Recurrent Neural Network (RNN)
 * Long Short-Term Memory (LSTM)
+* Shallow Neural Network (NN)
+* 
 
 ---
 
@@ -153,29 +151,31 @@ A **bar plot** is used to visualize the comparison between ML and DL models, hig
 
 ---
 
-### 🧠 Deep Learning Model Results
+###  Deep Learning Model Results
 
-#### 🔹 RNN Model
+####  RNN Model
+* Architechture:
+  <img width="1073" height="642" alt="image" src="https://github.com/user-attachments/assets/476d66eb-596d-4f8e-9f18-1d9a0054e4a8" />
+* Accuracy:99.6%
 
-* Accuracy: **XX%**
-* Precision: **XX**
-* Recall: **XX**
-* F1-Score: **XX**
+* Evaluation metrics:
+ <img width="627" height="208" alt="image" src="https://github.com/user-attachments/assets/f9d7db9f-e2f0-46d5-9b85-989e27917828" />
+ 
+* RNN Model Loss vs Accuracy Graph:
+<img width="1223" height="503" alt="image" src="https://github.com/user-attachments/assets/8ef98e7e-aee1-4448-b7db-de893d189db2" />
 
-```text
-[Insert RNN Metrics Screenshot Here]
-```
+
 
 #### 🔹 LSTM Model
+*Architecture:
+<img width="1052" height="398" alt="image" src="https://github.com/user-attachments/assets/19893249-dfdc-43b1-9983-4587092523e3" />
 
-* Accuracy: **XX%**
-* Precision: **XX**
-* Recall: **XX**
-* F1-Score: **XX**
+* Accuracy: 
+<img width="1183" height="455" alt="image" src="https://github.com/user-attachments/assets/c5d11e14-ab5d-4f11-8ba0-df63b9c40084" />
 
-```text
-[Insert LSTM Metrics Screenshot Here]
-```
+* LSTM Model Loss vs Accuracy graph:
+  <img width="1189" height="499" alt="image" src="https://github.com/user-attachments/assets/cbb67bbb-95ba-4b3b-b485-4c7e8ca18076" />
+
 
 ---
 
