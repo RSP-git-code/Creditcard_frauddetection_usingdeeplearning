@@ -1,4 +1,3 @@
-
 ---
 
 # Credit Card Fraud Detection Using Deep Learning
@@ -109,7 +108,7 @@ The notebook includes:
   * Precision, Recall, F1-Score
 
 
-## 📊 Results & Evaluation
+##  Results & Evaluation
 
 Model performance is evaluated using standard classification metrics. Since credit card fraud detection is a **highly imbalanced classification problem**, metrics such as **Precision, Recall, and F1-Score** are considered more important than accuracy alone.
 
@@ -129,8 +128,6 @@ Both **Machine Learning (ML)** and **Deep Learning (DL)** models were implemente
 * Recurrent Neural Network (RNN)
 * Long Short-Term Memory (LSTM)
 * Shallow Neural Network (NN)
-* 
-
 ---
 
 ###  Performance Comparison
