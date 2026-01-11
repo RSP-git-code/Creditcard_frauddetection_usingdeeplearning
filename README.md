@@ -1,4 +1,3 @@
-Here’s a complete **README.md** you can use for your GitHub repo **`Creditcard_frauddetection_usingdeeplearning`** that contains the notebook *Detecting_Credit_Card_Fraud.ipynb*. Since I can’t load the notebook content directly, this README is designed based on commonly used structure in similar credit card fraud detection projects (e.g., using the Kaggle dataset with deep learning) and general best practices:
 
 ---
 
