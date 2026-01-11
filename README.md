@@ -148,10 +148,8 @@ A **bar plot** is used to visualize the comparison between ML and DL models, hig
 
  *Bar plot comparing ML vs DL model performance is shown below:*
 
-```text
-<img width="1205" height="666" alt="image" src="https://github.com/user-attachments/assets/12840316-22c8-445c-bd2d-145851dc3f06" />
+<img width="1205" height="666" alt="image" src="https://github.com/user-attachments/assets/a8e33665-dd41-49a6-a2d8-9f3da7b3b513" />
 
-```
 
 ---
 
