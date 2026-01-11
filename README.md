@@ -11,6 +11,7 @@ This project builds a deep learning based model to identify credit card fraud us
 ##  Overview
 
 Fraudulent financial transactions cause huge monetary loss to individuals and organizations. Machine learning and deep learning techniques can be used to analyze historical transaction records to distinguish between **legitimate** and **fraudulent** activities.
+* Project Documentation:https://drive.google.com/file/d/1kvcf3CRHDkRfgCn2lXvsebeSSc7-i2DJ/view?usp=sharing
 
 This repository contains a Jupyter Notebook (`Detecting_Credit_Card_Fraud.ipynb`) that:
 
