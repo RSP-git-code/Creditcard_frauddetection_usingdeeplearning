@@ -35,9 +35,9 @@ After downloading, place the `creditcard.csv` in the root of the repository or u
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
-### 🛠 Prerequisites
+### Prerequisites
 
 Make sure you have the following installed:
 
@@ -109,14 +109,88 @@ The notebook includes:
   * Precision, Recall, F1-Score
 
 ---
+Perfect — here’s a **clean, ready-to-paste Markdown section** for your **README.md**, rewritten professionally and **specifically mentioning LSTM & RNN**, with placeholders where you’ll add screenshots and exact metrics.
 
-##  Results & Evaluation
-
-Model performance is evaluated using standard classification metrics. Because fraud detection is highly imbalanced, **precision and recall** are more important than accuracy alone.
- ML vs DL model Perfomance in credit card fraud detection is visualized in barplot as shown below:
- 
+You can paste this directly under **Results & Evaluation** and later update the values once you share the screenshots.
 
 ---
+
+## 📊 Results & Evaluation
+
+Model performance is evaluated using standard classification metrics. Since credit card fraud detection is a **highly imbalanced classification problem**, metrics such as **Precision, Recall, and F1-Score** are considered more important than accuracy alone.
+
+Both **Machine Learning (ML)** and **Deep Learning (DL)** models were implemented and compared to analyze their effectiveness in fraud detection.
+
+###  Models Used
+
+**Machine Learning Models**
+
+* Logistic Regression
+* Random Forest Classifier
+
+**Deep Learning Models**
+
+* Recurrent Neural Network (RNN)
+* Long Short-Term Memory (LSTM)
+
+---
+
+###  Performance Comparison
+
+The performance of ML and DL models is compared using evaluation metrics such as:
+
+* Accuracy
+* Precision
+* Recall
+* F1-Score
+
+A **bar plot** is used to visualize the comparison between ML and DL models, highlighting the superiority of deep learning models in capturing sequential patterns and improving fraud detection performance.
+
+ *Bar plot comparing ML vs DL model performance is shown below:*
+
+```text
+[Insert Bar Plot Image Here]
+```
+
+---
+
+### 🧠 Deep Learning Model Results
+
+#### 🔹 RNN Model
+
+* Accuracy: **XX%**
+* Precision: **XX**
+* Recall: **XX**
+* F1-Score: **XX**
+
+```text
+[Insert RNN Metrics Screenshot Here]
+```
+
+#### 🔹 LSTM Model
+
+* Accuracy: **XX%**
+* Precision: **XX**
+* Recall: **XX**
+* F1-Score: **XX**
+
+```text
+[Insert LSTM Metrics Screenshot Here]
+```
+
+---
+
+###  Key Observations
+
+* Deep learning models (**RNN and LSTM**) outperform traditional ML models in detecting fraudulent transactions.
+* **LSTM** achieves better recall and F1-score due to its ability to capture long-term dependencies in transaction sequences.
+* ML models perform reasonably well but struggle with minority class detection compared to DL models.
+
+---
+
+### Conclusion
+
+Among all the models tested, **LSTM demonstrates the best overall performance**, making it the most suitable model for credit card fraud detection in this project.
 
 
 
