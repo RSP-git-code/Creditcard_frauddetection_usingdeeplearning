@@ -1,7 +1,7 @@
 
 ---
 
-# 🕵️‍♂️ Credit Card Fraud Detection Using Deep Learning
+# Credit Card Fraud Detection Using Deep Learning
 
 Detect and classify fraudulent credit card transactions using deep learning techniques.
 
@@ -9,7 +9,7 @@ This project builds a deep learning based model to identify credit card fraud us
 
 ---
 
-## 📌 Overview
+##  Overview
 
 Fraudulent financial transactions cause huge monetary loss to individuals and organizations. Machine learning and deep learning techniques can be used to analyze historical transaction records to distinguish between **legitimate** and **fraudulent** activities.
 
@@ -22,11 +22,11 @@ This repository contains a Jupyter Notebook (`Detecting_Credit_Card_Fraud.ipynb`
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 You’ll need to download the dataset to run the notebook:
 
-📥 **Credit Card Fraud Dataset** (from Kaggle):
+ **Credit Card Fraud Dataset** (from Kaggle):
 [https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 This dataset contains **284,807 transactions**, of which **492 are fraudulent**. It has been anonymized using PCA transformations on the features. ([Kaggle][1])
@@ -45,7 +45,7 @@ Make sure you have the following installed:
 * Jupyter Notebook / Jupyter Lab
 * Virtual environment (recommended)
 
-### 📦 Install Dependencies
+###  Install Dependencies
 
 You can install all required libraries using:
 
@@ -61,7 +61,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
 
 ---
 
-## 📌 Run the Notebook
+## Run the Notebook
 
 1. Clone the repository:
 
@@ -82,7 +82,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
 
 ---
 
-## 📊 What’s Inside the Notebook
+##  What’s Inside the Notebook
 
 The notebook includes:
 
@@ -110,7 +110,7 @@ The notebook includes:
 
 ---
 
-## 📈 Results & Evaluation
+##  Results & Evaluation
 
 Model performance is evaluated using standard classification metrics. Because fraud detection is highly imbalanced, **precision and recall** are more important than accuracy alone.
  ML vs DL model Perfomance in credit card fraud detection is visualized in barplot as shown below:
